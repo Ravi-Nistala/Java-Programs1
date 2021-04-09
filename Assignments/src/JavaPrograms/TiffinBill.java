@@ -1,5 +1,7 @@
 package JavaPrograms;
 
+import java.util.Scanner;
+
 public class TiffinBill {
 
 	public static void main(String[] args) {
